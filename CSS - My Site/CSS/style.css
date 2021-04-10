@@ -1,0 +1,143 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 20px;
+}
+
+
+div{
+  background-color: #E4F9F5;
+  position: relative;
+  padding: 100px;
+}
+
+h1 {
+ margin:10px;
+ font-family: 'Lobster', cursive;
+ color: #66BFBF;
+
+
+}
+
+h2,h3{
+  color: #66BFBF;
+}
+
+p{
+  font-size: 18px;
+
+}
+
+
+
+
+.Paragrap{
+  color: #66BFBF;
+}
+
+
+.bottom-cloud{
+  position: absolute;
+  top:30%;
+  left: 27%;
+
+}
+
+
+.top-cloud{
+  position: absolute;
+  right: 31%;
+  top: 10%;
+}
+
+.profil-bild{
+  width:120px;
+}
+
+
+
+.middle-container{
+
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+
+
+.skill-row{
+  width: 50%;
+  margin:  10px  auto   10px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+
+
+
+
+.chillies-img{
+  width: 25%;
+  float: left;
+  margin: 30px;
+}
+
+.computer-img{
+  width: 25% ;
+  float: right;
+  margin: 30px;
+}
+
+hr{
+  width:70px;
+ border-style: none;
+ border-top-style: dotted;
+ border-color: grey;
+ border-width: 6px;
+
+}
+
+
+
+.BUTTON_ZXV {
+   background:#11999E ;
+   border-radius: 20px;
+   color: white;
+   font-family: 'Bebas Neue', cursive;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 8px;
+
+   text-decoration: none;
+   display: inline-block;
+   text-align: center;
+}
+
+.BUTTON_ZXV:hover {
+   background:#66BFBF;
+   border-radius: 30px;
+}
+
+
+.footer-link{
+  margin: 10px;
+  text-decoration: none;
+  color: #11999E;
+  font-size: 0.78em;
+}
+
+a:hover{
+  color: #eaf6f6;
+
+}
+
+
+
+.text-footer{
+  color:#eaf6f6;
+  font-size: 0.67em;
+}
